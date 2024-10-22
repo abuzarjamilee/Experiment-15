@@ -136,11 +136,11 @@ a.<br>
 
  <br>
 b.<br>
-![image](https://github.com/user-attachments/assets/a136a1ca-9bf4-4719-9e8b-27ec0225516a)
+![image](https://github.com/user-attachments/assets/59bbf3d6-afbe-4949-8480-50cac05e2c4e)
 
  <br>
 c.<br>
-![image](https://github.com/user-attachments/assets/6fb3a9c9-9e0e-463b-b9a7-c966721d1117)
+![image](https://github.com/user-attachments/assets/5c59e3f8-3427-41f2-8958-2c81fe4cf630)
 
  <br>
 d.<br>
