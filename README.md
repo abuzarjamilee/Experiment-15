@@ -132,15 +132,19 @@ int main()
 **Outputs:**  <br>
 <br>
 a.<br>
+![image](https://github.com/user-attachments/assets/e2d71944-46a8-43bd-874f-7aa37cc61dae)
 
  <br>
 b.<br>
+![image](https://github.com/user-attachments/assets/a136a1ca-9bf4-4719-9e8b-27ec0225516a)
 
  <br>
 c.<br>
+![image](https://github.com/user-attachments/assets/6fb3a9c9-9e0e-463b-b9a7-c966721d1117)
 
  <br>
 d.<br>
+![image](https://github.com/user-attachments/assets/bc477e65-09a5-48fb-b93d-97ff381740c9)
 
  <br>
 
